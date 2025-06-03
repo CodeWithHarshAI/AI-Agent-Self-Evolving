@@ -1,9 +1,5 @@
 # 🧠 EvoAgentX: Self-Evolving AI Agent Framework
 
-<div align="center">
-  <img src="./assets/EAXLoGo.svg" alt="EvoAgentX Logo" width="50%">
-</div>
-
 ## 🚀 Overview
 
 **EvoAgentX** is a self-evolving ecosystem for building, evaluating, and optimizing AI agent workflows. It features:
